@@ -1,0 +1,19 @@
+Dear Contestant,
+
+Please make sure your submission for this contest includes the following items:
+
+ - The document named BusinessRequirements.rtf
+ - Separate, original files for Visio/Omnigrapple/Dia models
+ - A .tcuml file with your use case diagram
+ - Original files for any other artifacts you have included.  For example:
+	- Additional Visio diagrams
+	- Excel Spreadsheets
+	- Vector graphics from an illustration or modelling program
+
+All of these items must be contained in a Zip archive.  Submit the archive to Online Review as you normally would for any other type of contest.
+
+
+REMINDER: there must be no information in your submission that can identify you by name, handle, etc.
+
+
+THANK YOU!!
